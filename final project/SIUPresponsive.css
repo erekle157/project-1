@@ -1,0 +1,252 @@
+@media only screen and (min-width: 2560px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 600px;
+    }
+    .input {
+        width: 800px;
+    }
+    .relative {
+        margin-left: 500px;
+    }
+    .M-span {
+        width: 1960px;
+        margin-left: 320px;
+    }
+    .bc-img1 {
+        width: 853px;
+    }
+    .width {
+        height: 1000px;
+        width: 853px;
+    }
+    .singUp {
+        padding-left: 190px;
+        width: 853px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 2320px;
+        margin-left: 120px;
+    }
+    .F-pr {
+        margin: 40px 285px 0 0
+    }
+    .F-prr {
+        margin: 40px 203px 0 0;
+    }
+}
+@media only screen and (max-width: 1440px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 156px;
+    }
+    .relative {
+        margin-left: 70px;
+    }
+    .bc-img1 {
+        width: 480px;
+    }
+    .width {
+        width: 480px;
+    }
+    .singUp {
+        width: 480px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 1315px;
+        margin-left: 60px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 100px;
+    }
+    .input {
+        width: 380px;
+    }
+    .relative {
+        margin-left: 70px;
+    }
+    .bc-img1 {
+        width: 340px;
+    }
+    .width {
+        width: 340px;
+    }
+    .singUp {
+        width: 340px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 904px;
+        margin-left: 60px;
+    }
+    .F-pr {
+        margin: 40px 45px 0 0;
+    }
+    .F-prr {
+        margin: 40px 50px 0 0;
+    }
+    .FB a {
+        width: 165px;
+    }
+    .GM a {
+        width: 165px;
+    }
+    .GM a img {
+        margin-right: 25px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .burger {
+        margin-left: 35px;
+    }
+    .eng {
+        margin-left: 30px;
+    }
+    .input {
+        width: 300px;
+    }
+    .relative {
+        margin-left: 50px;
+    }
+    .bc-img1 {
+        width: 256px;
+    }
+    .width {
+        width: 256px;
+    }
+    .singUp {
+        width: 256px;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 648px;
+        margin-left: 60px;
+    }
+    .F-pr {
+        margin: 40px 100px 0 0;
+    }
+    .op {
+        opacity: 0;
+        position: absolute;
+    }
+    .FB a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .GM a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .FB a {
+        width: 115px;
+    }
+    .GM a {
+        width: 115px;
+    }
+    .GM a img {
+        margin-right: 15px;
+        margin-left: 10px;
+    }
+    .bla {
+        margin-left: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 425px) {
+    .burger {
+        margin-left: 10px;
+    }
+    .movies {
+        margin-left: 10px;
+    }
+    .relative {
+        margin-left: -15px;
+    }
+    .input {
+        width: 123px;
+    }
+    .eng {
+        margin-left: 5px;
+    }
+    .eng-1 {
+        margin-left: 0px;
+    }
+    .bc-img1 {
+        width: 25%;
+    }
+    .width {
+        width: 25%;
+    }
+    .singUp {
+        width: 60%;
+    }
+    #login-div {
+        margin-left: 0px;
+    }
+    .footbar {
+        width: 381px;
+        margin-left: 23px;
+    }
+    .F-p {
+        margin: 40px 0 20px 10px;
+    }
+    .f-li {
+        margin-left: 20px;
+    }
+    .F-pr {
+        margin: 40px 0 0 0;
+    }
+    .F-prr {
+        margin: 40px 0 0 20px;
+    }
+    .F-Li {
+        padding: 0 0 0 0px;
+    }
+    .op {
+        opacity: 0;
+        position: absolute;
+    }
+    .FB a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .GM a img {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .FB a {
+        width: 115px;
+    }
+    .GM a {
+        width: 115px;
+    }
+    .GM a img {
+        margin-right: 15px;
+        margin-left: 10px;
+    }
+    .bla {
+        margin-left: 16px;
+    }
+}
+

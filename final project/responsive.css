@@ -1,0 +1,496 @@
+@media only screen and (mIN-width: 2560px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 600px;
+    }
+    .input {
+        width: 800px;
+    }
+    .relative {
+        margin-left: 500px;
+    }
+    .M-span {
+        width: 1960px;
+        margin-left: 320px;
+    }
+    .M-pic {
+        width: 1000px
+    }
+    .S-pic {
+        width: 220px;
+    }
+    .cards-1 {
+        width: 2200px;
+        margin-left: 137px;
+        bottom: -500px;
+    }
+    .arrow {
+        left: 15px;
+    }
+    .arrow-2 {
+        right: 11px;
+    }
+    .main-cards {
+        width: 93%;
+        margin-left: 100px;
+    }
+    .cards-p {
+        left: 110px;
+    }
+    .cards-p2 {
+        margin-top: 570px;
+        margin-left: 180px;
+    }
+    .cards {
+        width: 325px;
+    }
+    .IW {
+        width: 275px;
+    }
+    .I-divs {
+        margin-left: 180px;
+        width: 2320px;
+    }
+    #II-div {
+        margin-left: 180px;
+        width: 2300px;
+    }
+    .cards-p3 {
+        margin-left: 180px;
+    }
+    
+    #cards-p4 {
+        margin-right: 290px;
+    }
+    #cards-p5 {
+        margin-right: 290px;
+    }
+    #cards-p6 {
+        margin-right: 185px;
+    }
+    #H-div {
+        margin-left: 180px;
+        width: 2320px;
+    }
+    #L-div {
+        margin-left: 180px;
+        width: 2320px;
+    }
+    .coll {
+        margin-right: 67px;
+    }
+    .footbar {
+        width: 2320px;
+        margin-left: 120px;
+    }
+    .F-pr {
+        margin: 40px 285px 0 0
+    }
+    .F-prr {
+        margin: 40px 203px 0 0;
+    }
+}
+@media only screen and (max-width: 1440px) {
+    .burger {
+        margin-left: 120px;
+    }
+    .eng {
+        margin-left: 156px;
+    }
+    .relative {
+        margin-left: 70px;
+    }
+    .M-span {
+        width: 1140px;
+        margin-left: 120px;
+    }
+    .cards-1 {
+        width: 1125px;
+        margin-left: 137px;
+    }
+    .arrow {
+        left: 15px;
+    }
+    .arrow-2 {
+        right: 11px;
+    }
+    .main-cards {
+        margin-left: 100px;
+
+    }
+    .cards-p {
+        left: 110px;
+    }
+    .cards-p2 {
+        margin-left: 180px;
+    }
+    .cards {
+        width: 325px;
+    }
+    .IW {
+        width: 275px;
+    }
+    .I-divs {
+        margin-left: 180px;
+        width: 1100px;
+    }
+    #II-div {
+        margin-left: 180px;
+        width: 1100px;
+    }
+    .cards-p3 {
+        margin-left: 180px;
+    }
+    
+    #cards-p4 {
+        margin-right: 220px;
+    }
+    #cards-p5 {
+        margin-right: 220px;
+    }
+    #cards-p6 {
+        margin-right: 185px;
+    }
+    #H-div {
+        margin-left: 180px;
+        width: 1100px;
+    }
+    #L-div {
+        margin-left: 180px;
+        width: 1145px;
+    }
+    .coll {
+        margin-right: 67px;
+    }
+    .footbar {
+        width: 1315px;
+        margin-left: 60px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .burger {
+        margin-left: 50px;
+    }
+    .relative {
+        margin-left: 20px;
+    }
+    .input {
+        width: 530px;
+    }
+    .eng {
+        margin-left: 60px;
+    }
+    .M-span {
+        width: 911px;
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    .M-pic {
+        width: 550px;
+    }
+    .cards-1 {
+        width: 970px;
+        margin-left: 25px;
+        bottom: -160px;
+    }
+    .main-cards {
+        margin-left: 82px;
+    }
+    .arrow-2 {
+        right: 50px;
+    }
+    .cards {
+        margin-right: 65px;
+    }
+    .cards-p {
+        left: 54px;
+    }
+    .cards-p2 {
+        margin-top: 210px;
+        margin-left: 150px;
+    }
+    .I-divs {
+        margin-left: 150px;
+        width: 790px;
+        margin-top: 35px;
+    }
+    #II-div {
+        margin-left: 150px;
+        width: 810px;
+    }
+    .cards-p3 {
+        margin-left: 150px;
+    }
+    #cards-p4 {
+        margin-right: 150px;
+    }
+    #cards-p5 {
+        margin-right: 150px;
+    }
+    #cards-p6 {
+        margin-right: 150px;
+    }
+    #H-div {
+        margin-left: 150px;
+        width: 810px;
+    }
+    #L-div {
+        margin-left: 126px;
+        width: 870px;
+    }
+    .coll {
+        margin-right: 67px;
+    }
+    .footbar {
+        width: 904px;
+        margin-left: 60px;
+    }
+    .F-pr {
+        margin: 40px 45px 0 0;
+    }
+    .F-prr {
+        margin: 40px 50px 0 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .burger {
+        margin-left: 10px;
+    }
+    .movies {
+        margin-left: 15px;
+    }
+    .relative {
+        margin-left: 20px;
+    }
+    .input {
+        width: 337px;
+    }
+    .eng {
+        margin-left: 60px;
+    }
+    .M-pic {
+        width: 400px;
+    }
+    .M-span {
+        width: 625px;
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    .sc-d {
+        bottom: -80px;
+    }
+    .S-btn {
+        top: 45px;
+    }
+    .cards:hover > .div-22 {
+        right: 5px;
+    }
+    .cards:hover > .div-2 {
+        right: 40px;
+    }
+    .cards-1 {
+        width: 725px;
+        margin-left: 22px;
+        bottom: 35px;
+    }
+    .main-cards {
+        margin-left: 65px;
+    }
+    .arrow-2 {
+        right: 15px;
+    }
+    .cards-p {
+        left: 10px;
+    }
+    .cards-p2 {
+        margin-top: 45px;
+        margin-left: 40px;
+    }
+    .I-divs {
+        margin-left: 37px;
+        width: 730px;
+        margin-top: 70px;
+    }
+    .cards {
+        margin-right: 40px;
+    }
+    #II-div {
+        margin-left: 30px;
+        width: 730px;
+    }
+    .cards-p3 {
+        margin-left: 40px;
+    }
+    #cards-p4 {
+        margin-right: 40px;
+    }
+    #cards-p5 {
+        margin-right: 40px;
+    }
+    #cards-p6 {
+        margin-right: 140px;
+    }
+    #H-div {
+        margin-left: 30px;
+        width: 730px;
+    }
+    #L-div {
+        margin-left: 90px;
+        width: 572px;
+    }
+    .coll {
+        margin-right: 67px;
+    }
+    .footbar {
+        width: 648px;
+        margin-left: 60px;
+    }
+    .F-pr {
+        margin: 40px 100px 0 0;
+    }
+    .op {
+        opacity: 0;
+        position: absolute;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .burger {
+        margin-left: 10px;
+    }
+    .movies {
+        margin-left: 10px;
+    }
+    .relative {
+        margin-left: -15px;
+    }
+    .input {
+        width: 123px;
+    }
+    .eng {
+        margin-left: 5px;
+    }
+    .eng-1 {
+        margin-left: 0px;
+    }
+    .M-pic {
+        width: 300px;
+    }
+    .S-pic {
+        width: 60px;
+    }
+    .sc-p {
+        width: 80px;
+    }
+    .M-span {
+        width: 395px;
+        margin-left: 30px;
+        margin-top: 0px;
+    }
+    .sc-d {
+        bottom: -40px;
+    }
+    .S-btn {
+        top: 30px;
+    }
+    .cards:hover > .div-22 {
+        right: 5px;
+    }
+    .cards:hover > .div-2 {
+        right: 40px;
+    }
+    .cards-1 {
+        width: 381px;
+        margin-left: 22px;
+        bottom: 0px;
+    }
+    .main-cards {
+        margin-left: 32px;
+        
+    }
+    .arrow {
+        left: 5px;
+    }
+    .arrow-2 {
+        right: 7px;
+    }
+    .cards-p {
+        top: 15px;
+        left: 7px;
+    }
+    .cards-M {
+        left: 10px;
+        top: 57px;
+    }
+    .I-divs {
+        margin-left: 40px;
+        width: 380px;
+        margin-top: 25px;
+        max-height: 605px;
+    }
+    .cards {
+        margin-right: 0px;
+    }
+    #II-div {
+        margin-left: 40px;
+        width: 385px;
+    }
+    #II-div.open {
+        max-height: 1430px;
+    }
+    .cards-p2 {
+        margin-left: 40px;
+    }
+    .cards-p3 {
+        margin-left: 40px;
+    }
+    #cards-p4 {
+        margin-right: 40px;
+    }
+    #cards-p5 {
+        margin-right: 55px;
+    }
+    #cards-p6 {
+        margin-right: 107px;
+    }
+    #H-div {
+        margin-left: 40px;
+        width: 340px;
+    }
+    #H-div.open {
+        max-height: 1430px;
+    }
+    #L-div {
+        margin-left: 100px;
+        width: 220px;
+        max-height: 350px;
+    }
+    .coll {
+        margin-right: 10px;
+    }
+    .footbar {
+        width: 381px;
+        margin-left: 23px;
+    }
+    .F-p {
+        margin: 40px 0 20px 10px;
+    }
+    .f-li {
+        margin-left: 20px;
+    }
+    .F-pr {
+        margin: 40px 0 0 0;
+    }
+    .F-prr {
+        margin: 40px 0 0 20px;
+    }
+    .F-Li {
+        padding: 0 0 0 0px;
+    }
+    .op {
+        opacity: 0;
+        position: absolute;
+    }
+}
